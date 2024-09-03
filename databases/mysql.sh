@@ -76,6 +76,28 @@ SELECT column, COUNT(*) FROM table_name GROUP BY column; # Group results and use
 SELECT VERSION(); # Show the current version of MySQL
 SELECT User, Host FROM mysql.user; # List all current MySQL users
 
+# ******************************************************************************
+# Interview Question which are advanced
+# ******************************************************************************
+
+Top SQL Interview Questions
+Explain the differences between SQL and NoSQL databases. (Question #10)
+Explain different types of joins with examples. (Question #27)
+What is a primary key in SQL? (Question #3)
+What is a foreign key? (Question #4)
+How do you optimize SQL queries? (Question #29)
+How do you create a stored procedure? (Question #44)
+What is a trigger in SQL? (Question #23)
+Explain ACID properties in SQL. (Question #32)
+What is a transaction in SQL? (Question #33)
+ Explain normalization and denormalization. (Question #37)
+What is a view in SQL? (Question #21)
+How do you prevent SQL injection? (Question #39)
+What are indexes in SQL? (Question #16) 
+What is the difference between UNION and UNION ALL? (Question #30)
+Describe the difference between WHERE and HAVING in SQL. (Question #20)
+
+
 # *****************************************************************************
 # Miscellaneous
 # *****************************************************************************
